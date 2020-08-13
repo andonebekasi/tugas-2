@@ -16,7 +16,7 @@ The code creates three resources:
 3) A Lambda function which subscribes to the SQS queue
 
 
-Please note that the code is NOT production ready and is only meant as an example.
 
+Noted: masih belajar 
 source from 
 https://github.com/cgiacomi/terraform_sns_sqs
