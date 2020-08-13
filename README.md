@@ -1,8 +1,6 @@
 # Terraform SNS to SQS to Lambda
 
-The following is an AWS infrastructure as code tutorial using Terraform.
-
-The original post can be found [here](https://christiangiacomi.com/posts/terraform-sns-sqs-lambda)
+Silakan BACA-SAYA.PDF 
 
 ## Architecture
 
@@ -19,3 +17,6 @@ The code creates three resources:
 
 
 Please note that the code is NOT production ready and is only meant as an example.
+
+source from 
+https://github.com/cgiacomi/terraform_sns_sqs
